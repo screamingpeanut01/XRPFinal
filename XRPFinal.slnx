@@ -1,0 +1,9 @@
+﻿<Solution>
+  <Project Path="Twoz.SDK.Editor.csproj" />
+  <Project Path="Twoz.SDK.csproj" />
+  <Project Path="Twoz.Core.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Twoz.SDK.Haptic.Editor.csproj" />
+  <Project Path="ToolbarExtender.Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+</Solution>
